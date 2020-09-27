@@ -3,5 +3,17 @@
     { "name": "Tutos", "link": "http://tutos.yonkou.info", "description": "" , "logo": null },
     { "name": "Tyto Server", "link": "http://server.tytoservices.com", "description": "" , "logo": null },
     { "name": "Blog", "link": "http://tutoriels.yonkou.info", "description": "" , "logo": null },
-    { "name": "Estm Courses", "link": "http://estm.yonkou.info", "description": "" , "logo": null }
+    { "name": "Estm Courses", "link": "http://estm.yonkou.info", "description": "" , "logo": null },
+    {
+        "name": "Youtube",
+        "link": "https://www.youtube.com/",
+        "description": "",
+        "logo": null
+    },
+    {
+        "name": "Scan Manga",
+        "link": "https://lelscan.net/lecture-ligne-one-piece.php",
+        "description": "",
+        "logo": null
+    }
 ]
